@@ -43,11 +43,13 @@ This is a beginner-friendly weather application built using **React.js**. The ap
     Generate an API key.
    
 5. Create an .env file in the project root and add the API key:
-   ``` REACT_APP_API_KEY=Your_api_paste_here```
+   ```
+    REACT_APP_API_KEY=Your_api_paste_here
+    ```
 
-6. Start the development server:
+7. Start the development server:
     ```npm start```
-7. Open the app in your browser at:
+8. Open the app in your browser at:
    ``` http://localhost:3000```
 
 ### Technologies Used 🛠️
