@@ -34,21 +34,21 @@ This is a beginner-friendly weather application built using **React.js**. The ap
    cd YourRepository
 
 2. **Install dependencies**:
-
+```
     npm install
-
+```
 3. Get your API key from OpenWeatherMap API:
 
     Sign up or log in to OpenWeatherMap.
     Generate an API key.
    
 5. Create an .env file in the project root and add the API key:
-    REACT_APP_API_KEY=Your_api_paste_here
+   ```` REACT_APP_API_KEY=Your_api_paste_here````
 
 6. Start the development server:
-    npm start
+    ```npm start```
 7. Open the app in your browser at:
-    http://localhost:3000
+   ``` http://localhost:3000```
 
 ### Technologies Used 🛠️
    React.js
