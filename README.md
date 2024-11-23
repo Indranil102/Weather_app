@@ -48,8 +48,10 @@ This is a beginner-friendly weather application built using **React.js**. The ap
     ```
 
 7. Start the development server:
-    ```npm start```
-8. Open the app in your browser at:
+    ```
+   npm start
+    ```
+9. Open the app in your browser at:
    ``` http://localhost:3000```
 
 ### Technologies Used 🛠️
