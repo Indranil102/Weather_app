@@ -14,7 +14,7 @@ This is a beginner-friendly weather application built using **React.js**. The ap
 
 ## Demo 🎉
 
-[Live App Link](#) (Replace `#` with your deployed app URL)
+[Live App Link](https://weather-app-self-two-60.vercel.app/)
 
 ---
 
